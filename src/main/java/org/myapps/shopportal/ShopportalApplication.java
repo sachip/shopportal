@@ -1,0 +1,12 @@
+package org.myapps.shopportal;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ShopportalApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ShopportalApplication.class, args);
+	}
+}
